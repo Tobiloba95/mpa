@@ -1,0 +1,103 @@
+body{
+    font-family: 'Montserrat-black';
+}
+
+h1{
+    font-family: 'Montserrat-black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+    
+    
+}
+h3{
+    font-family: 'Montserrat-bold';
+    
+}
+h2{
+    font-family: 'Montserrat-bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+p{
+    font-family: 'Montserrat-thin'; 
+    
+}
+/*styling the container*/
+.container-fluid{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left:15% ;
+    padding-right: 15%;
+}
+        
+/*styling the section id */
+#title{
+    background-color: black;
+    color: white;
+
+}
+/*Navigation bar*/
+.navbar{
+    padding-bottom: 4.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+   
+}
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light'; 
+}
+
+/*styling the title image*/
+.title-img{
+    height: 50%;
+}
+
+/*feature section*/
+#features{
+    padding-top:7% ;
+    padding-bottom: 7%;
+    padding-left: 15% ;
+    padding-right: 15%;
+}
+.feature-box{
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:5% ;
+    padding-bottom:5% ;
+}
+/*styling the paragraph*/
+.fea{
+    color: gray;
+}
+
+/*styling the word*/
+#word{
+    background-color: black;
+    padding-top:7% ;
+    padding-bottom: 7%;
+    padding-left: 15% ;
+    padding-right: 15%;
+    text-align: center;
+    color: white;
+
+}
+
+.word-image{
+    width: 20%;
+    border-radius: 35%;
+    margin: 20px;
+
+}
